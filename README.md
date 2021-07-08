@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BenjuhminStewart
-- 👀 I’m interested in Gaming, Making Music, and Working out!
-- 🌱 I’m currently learning How to play the guitar and how to play chess.
+- 👋 Hi, I’m Benjamin Stewart
+- 👀 I am a software engineer out of University of Washington - Tacoma campus.
+- 🌱 I am the Co-Founder of MyFi financing website.
 - 💞️ I’m looking to collaborate on many different projects with anyone who is willing
 - 📫 How to reach me @benrstewart.12@gmail.com
 
