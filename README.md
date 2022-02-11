@@ -1,9 +1,13 @@
+# Benjamin Stewart
+
+## About Me
+
 - 👋 Hi, I’m Benjamin Stewart
 - 👀 I am a software engineer out of University of Washington - Tacoma campus.
 - 💞️ I’m looking to collaborate on many different projects with anyone who is willing
 - 📫 How to reach me: benrstewart.12@gmail.com
 
-  Here are some of my works!
+## My Interesting Works
 
 - Website: https://tcss445-myfi.herokuapp.com/
   (Server Side Private on GitHub)
