@@ -3,7 +3,7 @@
 ## About Me
 
 - 👋 Hi, I’m Benjamin Stewart
-- 👀 I am a software engineer out of University of Washington - Tacoma campus.
+- 👀 I am a software engineer out of University of Washington.
 - 💞️ I’m looking to collaborate on many different projects with anyone who is willing
 - 📫 How to reach me: benrstewart.12@gmail.com
 
