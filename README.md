@@ -43,6 +43,6 @@ protection and privacy
 
 
 ## Contact Information
-benjuhminstewart@gmail.com
-https://www.linkedin.com/in/benjuhminstewart/
+- benjuhminstewart@gmail.com
+- https://www.linkedin.com/in/benjuhminstewart/
 
