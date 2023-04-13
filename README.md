@@ -1,9 +1,9 @@
 # **Benjamin Stewart** - Software Engineer
 
-## About Me
+## About Me 👱🏻‍♂️
 I am a software engineer who loves to automate everything and make life more efficient for everyone. Seeing people use my creations to better their lives is the thing that inspires me to be a software engineer. 
 
-## Skills
+## Skills 💻
 - **Programming Languages:** Python, C#, Java, JavaScript, TypeScript, Golang
 - **Shell Scripting:** Bash, Zsh, PowerShell
 - **Database:** MySQL, PostgreSQL, NoSQL
@@ -11,12 +11,12 @@ I am a software engineer who loves to automate everything and make life more eff
 - **Version Control:** Git
 - **Frameworks:** React, React Native, Express, Node.js, Tailwind, .NET, JUnit
 
-## Education
+## Education 📚
 B.S., Computer Science, University of Washington, June 2022
 ### Relevant Courses
 Data Structures and Algorithms, Machine Learning, Cryptography, Web Development, Mobile Applications, Introduction to Database Systems
 
-## Projects
+## Projects 📁
 
 ### **Unified** • *Feb 2023 - Current*
 - Full-Stack Developer | JavaScript, React Native, Expo, PostgreSQL, Supabase
@@ -42,7 +42,7 @@ team members and managing the project's storyboard
 protection and privacy
 
 
-## Contact Information
+## Contact Information 📧
 - benjuhminstewart@gmail.com
 - https://www.linkedin.com/in/benjuhminstewart/
 
