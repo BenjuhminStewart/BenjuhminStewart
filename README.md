@@ -34,7 +34,7 @@ team members and managing the project's storyboard
 - Integrated third-party APIs including Pushy, OpenWeather, and Google Maps
 
 ### MYFI • Sep 2021 - Dec 2021
--Full-Stack Developer | JavaScript, React, PostgreSQL, Express, Tailwind
+- Full-Stack Developer | JavaScript, React, PostgreSQL, Express, Tailwind
 - Collaborated with a team to architect and develop a PostgreSQL database and API
 - Designed and implemented user authentication and registration functionality using JSON Web Tokens
 (JWTs), enabling secure and streamlined access to the app's features
